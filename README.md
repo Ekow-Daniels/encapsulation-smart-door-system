@@ -1,1 +1,1 @@
-# encapsulation-smart-door-system
+This project was developed as a part of a Case Study Activity for the Dean of ORIC ,UMaT.It is a Smart Door Access System for UMaT admin staff,built using Python OOP principles such as "Data Encapsulation" and the @property decorator.This protects staff access codes from direct modification, uses the @property decorator instead of getters and setters and validates access code length before updating.
